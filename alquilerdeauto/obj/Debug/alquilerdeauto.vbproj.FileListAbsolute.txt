@@ -1,0 +1,15 @@
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\bin\Debug\alquilerdeauto.exe.config
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\bin\Debug\alquilerdeauto.exe
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\bin\Debug\alquilerdeauto.pdb
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\bin\Debug\alquilerdeauto.xml
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.vbprojResolveAssemblyReference.cache
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.Detalle_de_vehiculo.resources
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.FormPantallaPrincipal.resources
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.Resources.resources
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.Reservaciones.resources
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.Ver_los_Vehiculos.resources
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.vbproj.GenerateResource.Cache
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.exe
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.xml
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.pdb
+c:\users\angelicamariel\documents\visual studio 2017\Projects\alquilerdeauto\alquilerdeauto\obj\Debug\alquilerdeauto.Factura.resources
